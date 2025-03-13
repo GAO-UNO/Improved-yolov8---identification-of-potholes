@@ -1,4 +1,4 @@
-#Model-related code
+Model-related code：
 1. To run with PyCharm software, you need to install Python 3.8 in the terminal, and configure the environment with the following command:
 In the terminal, run the pip install ultralytics command to download the package.
 Open the ultralytics-main file in the terminal and enter the pip install -r requirements.txt command to configure the environment.
